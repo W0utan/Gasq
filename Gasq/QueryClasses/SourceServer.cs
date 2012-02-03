@@ -14,15 +14,15 @@
 
     You should have received a copy of the GNU Lesser General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
- */ 
+ */
 using System;
 using System.IO;
 using System.Net;
+using System.Net.NetworkInformation;
 using System.Net.Sockets;
+using W0utan.Gasq.Exceptions;
 using W0utan.Gasq.Helper;
 using W0utan.Gasq.Interfaces;
-using W0utan.Gasq.Exceptions;
-using System.Net.NetworkInformation;
 
 namespace W0utan.Gasq.QueryClasses
 {

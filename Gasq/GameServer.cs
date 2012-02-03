@@ -14,16 +14,10 @@
 
     You should have received a copy of the GNU Lesser General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
- */ 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using W0utan.Gasq.Data;
+ */
 using W0utan.Gasq.Enums;
-using W0utan.Gasq.QueryClasses;
 using W0utan.Gasq.Interfaces;
-using System.Net;
+using W0utan.Gasq.QueryClasses;
 
 namespace W0utan.Gasq
 {
