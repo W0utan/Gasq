@@ -2,5 +2,7 @@ TestApp/bin/*
 TestApp/obj/*
 Gasq/bin/*
 Gasq/obj/*
+GasqUnitTests/bin/*
+GasqUnitTests/obj/*
 Gasq - Game Server Query Library.sln.docstates.suo
 Gasq - Game Server Query Library.suo

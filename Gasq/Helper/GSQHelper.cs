@@ -26,10 +26,10 @@ namespace W0utan.Gasq.Helper
     public static class GSQHelper
     {
         /// <summary>
-        /// Reads a UTF string form a MemoryStream. Method will read until it finds 0x0 
-        /// or reached the end of the stream.
+        /// Reads a UTF string from a MemoryStream. Method will read until it finds 0x0 
+        /// or reaches the end of the stream.
         /// </summary>
-        /// <param name="ms">Memory stream to read a UTF string from</param>
+        /// <param name="ms">MemoryStream to read a UTF string from.</param>
         /// <returns></returns>
         public static string ReadUTFString(this MemoryStream ms)
         {   
